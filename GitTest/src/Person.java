@@ -1,9 +1,8 @@
-
 public class Person {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-          System.out.println("Hello world !!!"+"Ding junkai");
+          System.out.println("Hello world !!!"+"James Ding");
 	}
 
 }
